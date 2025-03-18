@@ -49,3 +49,24 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.myfont {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"	
+}
+
+
+.mybg {
+	background: #FFF0F5;
+}
+
+
+.myotherbg {
+	background: #A45A52;
+	
+}
+
+
+.myfontcolor {
+	color: #FFF0F5;
+}
+
